@@ -1,3 +1,8 @@
+FashionFrame Documentation
+
+Welcome to the documentation for FashionFrame, a dynamic page builder tailored for the clothing industry. FashionFrame is built using Tailwind CSS and React, providing a flexible and intuitive platform for creating stunning clothing pages with ease.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
