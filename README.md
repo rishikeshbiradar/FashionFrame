@@ -1,22 +1,19 @@
 FashionFrame : Page Builder For Clothing
 
-Welcome to the documentation for FashionFrame, a dynamic page builder tailored for the clothing industry. FashionFrame is built using Tailwind CSS and React, providing a flexible and intuitive platform for creating stunning clothing pages with ease.
+Overview :
+FashionFrame is a powerful yet user-friendly page builder designed specifically for the clothing industry. With a rich set of components and seamless integration with Tailwind CSS and React, FashionFrame empowers users to create visually appealing clothing pages effortlessly.
 
-# Getting Started with Create React App
+Features :
+1) Intuitive Interface: FashionFrame provides a drag-and-drop interface for easy page building.
+2) Responsive Design: Pages built with FashionFrame are fully responsive, ensuring a consistent experience across devices.
+3) Customization: Tailor your pages to match your brand with customizable themes and styles.
+4) Reusable Components: FashionFrame offers a library of reusable components optimized for clothing pages.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Installation :
+1) Clone the FashionFrame repository from GitHub.
+2) Install the required dependencies using npm or yarn.
+3) Run the development server.
+4) Access FashionFrame in your browser.
 
 
 
